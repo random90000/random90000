@@ -1,2 +1,4 @@
 ### Hi there 👋
-print("hi")
+hi im random
+Im learning to code in python
+thats all
